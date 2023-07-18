@@ -5,7 +5,8 @@ import 'package:izi_flutter_app/domain/datasource/tasks_datasource.dart';
 import 'package:izi_flutter_app/domain/entities/task.dart';
 
 class ApiDatasource extends TasksDatasource {
-  final dio = Dio(BaseOptions(baseUrl: 'http://10.0.2.2:8080'));
+  // final dio = Dio(BaseOptions(baseUrl: 'http://10.0.2.2:8080')); //PC
+  final dio = Dio(BaseOptions(baseUrl: 'http://192.168.0.101:8080')); // Macbook M1
 
   @override
   Future<List<Task>> getTasks() async {

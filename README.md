@@ -6,6 +6,10 @@ App Tareas
 ![Post List](https://github.com/borissoto/izi-flutter/blob/main/screen2.jpeg)
 ![Post List](https://github.com/borissoto/izi-flutter/blob/main/screen3.jpeg)
 
+### Tech Stack
+Bloc
+Clean Architecture
+
 ## Installar los packages
 
 `flutter pub get`

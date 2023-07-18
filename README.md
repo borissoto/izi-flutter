@@ -2,9 +2,9 @@
 
 App Tareas
 
-![Post List](https://github.com/borissoto/izi-flutter/blob/main/screen3.png)
-![Post List](https://github.com/borissoto/izi-flutter/blob/main/screen1.png)
-![Post List](https://github.com/borissoto/izi-flutter/blob/main/screen2.png)
+![Post List](https://github.com/borissoto/izi-flutter/blob/main/screen1.jpeg)
+![Post List](https://github.com/borissoto/izi-flutter/blob/main/screen2.jpeg)
+![Post List](https://github.com/borissoto/izi-flutter/blob/main/screen3.jpeg)
 
 ## Installar los packages
 

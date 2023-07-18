@@ -1,5 +1,11 @@
 # izi_flutter_app
 
+App Tareas
+
+![Post List](https://github.com/borissoto/izi-flutter/blob/main/screen3.png)
+![Post List](https://github.com/borissoto/izi-flutter/blob/main/screen1.png)
+![Post List](https://github.com/borissoto/izi-flutter/blob/main/screen2.png)
+
 ## Installar los packages
 
 `flutter pub get`
